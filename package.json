@@ -17,7 +17,7 @@
     "peer-network": "^1.1.0",
     "pretty-bytes": "^4.0.2",
     "pretty-hrtime": "^1.0.2",
-    "pump": "^1.0.1",
+    "pump": "^1.0.2",
     "status-logger": "^3.0.0"
   },
   "devDependencies": {},
